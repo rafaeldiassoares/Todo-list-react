@@ -15,5 +15,10 @@ os comandos:
 
 `npm start`
 
+## Sobre o componente
+
+A chamada do componente foi feita no arquivo `/src/App.jsx`
+O código do componente esta na pasta `/src/components/` no arquivo `Todo.jsx`
+
 Obs.: Este foi meu primeiro componente criado com React, utilizei recursos básicos da biblioteca, assim 
 que os estudos forem evoluindo farei atualizações no projeto.
