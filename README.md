@@ -15,6 +15,8 @@ os comandos:
 
 `npm start`
 
+O projeto poderá ser acessado através do endereço `http://localhost:3000`
+
 ## Sobre o componente
 
 A chamada do componente foi feita no arquivo `/src/App.jsx`
