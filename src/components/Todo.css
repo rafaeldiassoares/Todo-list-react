@@ -1,8 +1,29 @@
 .Todo {
-    max-width: 500px;
-    background-color: darkgray;
+    max-width: 385px;
+    background-color: #f8cece;
     margin: 10px;
     padding: 10px;
+    border-radius: 10px;
+}
+
+.Todo h3 {
+    color: #f05858;
+}
+
+.Todo button {
+    background-color: #f07c7c;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    width: 40px;
+    height: 20px;    
+}
+
+.Todo input[ type=text ] {
+    border-radius: 5px;
+    border: none;
+    height: 20px;    
 }
 
 .Todo ul {
@@ -13,8 +34,19 @@
     list-style: none;
 }
 
+.Todo table {    
+    width: 300px;
+}
+
 .tdTable {    
-    min-width: 400px;
+    min-width: 300px;
     text-align: left;
-    padding-left: 5px;
+    padding-left: 5px;    
+}
+
+.Todo .CountTasks {    
+    margin-top: 20px;
+    text-align: left;
+    font-size: 14px;
+    color: #e70909;
 }
