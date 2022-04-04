@@ -1,6 +1,6 @@
 # Componente TODO List em React
 
-Este é um projeto de exemplo utilizando React onde foi construído um componente ToDo List
+Este é um projeto de exemplo utilizando React onde foi construído um componente ToDo List.
 
 ![image](https://github.com/rafaeldiassoares/Todo-list-react/blob/main/print.png?raw=true)
 
